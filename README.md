@@ -1,6 +1,6 @@
 # Dumby
 
-A minimal (and dumb) text editor written in a single coding session (with a lunch break).
+A minimal (and dumb) text editor written in a weekend.
 
 ## Build requirements
 
